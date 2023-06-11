@@ -41,3 +41,5 @@ Para saber cual es la variable que posee una mayor correlación con el porcentaj
 Para este punto utilizamos algunas características del dataframe original, aquellas referentes al nombre y clave de municipios y estados.
 
 Una vez hecho eso, propuse 4 indicadores que podrían ser de ayuda analizar cuando se desee hacer una política pública. Estos indicadores elegidos fueron los que a mi parecer son influyentes a la hora de considerar hacer una obra pública, sin embargo, se deben de obtener datos de campo y hacer una análisis de estos para lograr tener una certeza de si son o no relevantes.
+
+Por último, se guardo el nuevo dataframe en formato parquet y fue subido a este repositorio. Al igual que el cuaderno utilizado en el proyecto, y las imagenes generadas en el inciso c y d.
